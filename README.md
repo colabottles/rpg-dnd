@@ -1,4 +1,4 @@
-# Crits and Giggle DnD Group
+# Crits and Giggles DnD Group
 
 Welcome, you stumbled on the campaign notes website of a small group of adventurers.
 You are most welcome to read through the notes and see what we have been up to.

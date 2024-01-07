@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'izzi-ink', // Usually your GitHub org/user name.
+  organizationName: 'colabottles', // Usually your GitHub org/user name.
   projectName: 'rpg-dnd', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/izzi-ink/rpg-dnd',
+            'https://github.com/colabottles/rpg-dnd',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/izzi-ink/rpg-dnd',
+            'https://github.com/colabottles/rpg-dnd',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -73,6 +73,11 @@ const config = {
           {
             href: 'https://github.com/izzi-ink/rpg-dnd',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: '[![Netlify Status](https://api.netlify.com/api/v1/badges/c8b23ef9-93d6-46d9-b95e-45fa497d142a/deploy-status)](https://app.netlify.com/sites/crits-n-giggles/deploys)',
+            label: 'Netlify Deploy Status',
             position: 'right',
           },
         ],
