@@ -13,7 +13,11 @@ Within the last three hundred years, many have tried to follow up on the stories
 ## Useful Links
 
 ### DnD Beyond
+
 We use DnD Beyond to manage our characters and the campaign.
 
 - [Join on DnD Beyond](https://ddb.ac/campaigns/join/28515003339668192/).
+
+### Deploy Status
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c8b23ef9-93d6-46d9-b95e-45fa497d142a/deploy-status)](https://app.netlify.com/sites/crits-n-giggles/deploys)
