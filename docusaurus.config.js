@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Adventure Async Awaits',
-  tagline: 'Promises and other Distress Inc.',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Crits &amp; Giggles',
+  url: 'https://crits-n-giggles.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -71,13 +71,8 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/colabottles/rpg-dnd',
+            href: 'https://github.com/izzi-ink/rpg-dnd',
             label: 'GitHub',
-            position: 'right',
-          },
-          {
-            href: 'https://api.netlify.com/api/v1/badges/c8b23ef9-93d6-46d9-b95e-45fa497d142a/deploy-status',
-            label: 'Netlify Deploy Status',
             position: 'right',
           },
         ],
@@ -122,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Promises and other Distress, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Crits &amp; Giggles, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
