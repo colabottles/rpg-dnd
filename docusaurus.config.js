@@ -71,12 +71,12 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/izzi-ink/rpg-dnd',
+            href: 'https://github.com/colabottles/rpg-dnd',
             label: 'GitHub',
             position: 'right',
           },
           {
-            href: '[![Netlify Status](https://api.netlify.com/api/v1/badges/c8b23ef9-93d6-46d9-b95e-45fa497d142a/deploy-status)](https://app.netlify.com/sites/crits-n-giggles/deploys)',
+            href: 'https://api.netlify.com/api/v1/badges/c8b23ef9-93d6-46d9-b95e-45fa497d142a/deploy-status',
             label: 'Netlify Deploy Status',
             position: 'right',
           },
