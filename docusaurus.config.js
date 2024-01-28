@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Adventure Async Awaits',
-  tagline: 'Crits & Giggles',
+  title: 'Crits & Giggles',
+  tagline: 'Epic Journeys, Hilarious Detours!',
   url: 'https://crits-n-giggles.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'DnD Adventures',
+        title: 'A Riotous Romp Through the Realmspace',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'The Dungeons and Dragon 5th Edition Logo in Red. An Ampersand with the head and tail of a dragon spitting fire.',
+          src: 'img/dnd5e.svg',
         },
         items: [
           {
@@ -71,7 +71,7 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/izzi-ink/rpg-dnd',
+            href: 'https://github.com/colabottles/rpg-dnd',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +93,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'DnD Beyond',
+                label: 'Crits & Giggles on D&D Beyond',
                 href: 'https://ddb.ac/campaigns/join/28515003339668192',
               },
               {
@@ -112,7 +112,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/izzi-ink/rpg-dnd',
+                href: 'https://github.com/colabottles/rpg-dnd',
               },
             ],
           },
