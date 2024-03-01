@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
 ---
-# Lokur
+# Lokur - Retired?
+
+## Status: Retired?
 
 ![Portrait of Lokur, who resembles a sweet and energetic blue sea elf with a gutsy yet shy look. She has a bushy bounce of blue hair.](/img/characters/lokur.png)
-
-Player: Izzi
 
 **Player:** Izzi K.
 
@@ -20,5 +20,3 @@ Player: Izzi
 The sea's vastness mirrored the vastness of her isolation, but it also hid her secret: a latent power inherited from her ancestors, dormant and waiting. On her eighteenth birthday, while exploring an ancient ruin, she inadvertently triggered her abilities, creating a whirlpool so intense it alarmed the guardians of Olathoë.
 
 Now, with whispers of her power spreading, Lokur faces a new challenge: harnessing her newfound abilities and finding her place amongst her people. And perhaps, just perhaps, this socially awkward sea elf would find her true calling, bridging the gap between her heritage and her destiny.
-
-
