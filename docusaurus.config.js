@@ -60,7 +60,7 @@ const config = {
         title: 'A Riotous Romp Through the Realmspace',
         logo: {
           alt: 'The Dungeons and Dragon 5th Edition Logo in Red. An Ampersand with the head and tail of a dragon spitting fire.',
-          src: 'img/dnd5e.svg',
+          src: 'img/DnD_Ampersand_1c_Red_V1_RGB.png',
         },
         items: [
           {
