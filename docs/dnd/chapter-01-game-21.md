@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Chapter 1: Game 20
+# Chapter 1: Game 21
 
 ## 16 March 2024
 
