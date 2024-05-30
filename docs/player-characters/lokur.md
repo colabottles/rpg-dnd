@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Lokur - Retired?
+# Lokur - Retired
 
-## Status: Retired?
+## Status: Retired
 
 ![Portrait of Lokur, who resembles a sweet and energetic blue sea elf with a gutsy yet shy look. She has a bushy bounce of blue hair.](/img/characters/lokur.png)
 
