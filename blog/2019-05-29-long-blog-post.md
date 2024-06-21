@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors: izzi
+authors: todd
 tags: [hello, docusaurus]
 ---
 
