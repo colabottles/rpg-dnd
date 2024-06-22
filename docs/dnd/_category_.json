@@ -1,13 +1,13 @@
 {
   "label-a": "Chapter One Notes",
-  "position": 2,
-  "link": {
+  "position-a": 2,
+  "link-a": {
     "type": "generated-index",
     "description": "Rough Notes from our game sessions for Rise of the Stormbringer."
   },
   "label-b": "Chapter Two Notes",
-  "position": 2,
-  "link": {
+  "position-b": 3,
+  "link-b": {
     "type": "generated-index",
     "description": "Rough Notes from our game sessions for the next chapter."
   }
