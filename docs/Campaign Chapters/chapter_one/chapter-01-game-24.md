@@ -12,10 +12,16 @@ We rejoined the party looking over the statue in the middle of the cavern and af
 
 The group found 3 large chests from Groorg which contained a lot of coins. I mean _a lot of coins_.
 
-**Chest #1:** 4,300 gold pieces.
-**Chest #2:** 1,874 electrum pieces intermixed with 2,308 silver pieces, along with 3 10 pound bars of silver.
-**Chest #3:** 4,094 copper pieces, 17, 1 pound copper bars, and 9 small leather bags containing 50 copper pieces each.
+- **Chest #1:** 4,300 gold pieces.
+- **Chest #2:** 1,874 electrum pieces intermixed with 2,308 silver pieces, along with 3 10 pound bars of silver.
+- **Chest #3:** 4,094 copper pieces, 17, 1 pound copper bars, and 9 small leather bags containing 50 copper pieces each.
 
 After which, they proceeded to check two side chambers and then after some thought, they went back and the west wall was no long inaccessible. AS they jumped through into the darkness of the void ahead of them, they ended up in a new part of the Temple.
 
-After some reading of runes, which they could understand for a few moments, telling them, **"Those whom I find unfit I place on my left,"** said the first set. The next set states: **"Those who succeed I place on my right."** and lastly: **"The chosen may come before ME!"** The group stood there at the hub of the intersection contemplating their next move.
+After some reading of runes, which they could understand for a few moments, telling them;
+
+- **"Those whom I find unfit I place on my left,"** said the first set.
+- **"Those who succeed I place on my right."** said the next set and lastly,
+- **"The chosen may come before ME!"** said the last set.
+
+The group stood there at the hub of the intersection contemplating their next move. What did they get themselves into this time?
