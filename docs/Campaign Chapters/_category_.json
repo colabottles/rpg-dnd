@@ -1,0 +1,8 @@
+{
+  "label": "Campaign Chapters",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Chapter overviews provided during the campaign for reference."
+  }
+}
