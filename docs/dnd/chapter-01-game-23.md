@@ -14,7 +14,7 @@ After solving the "riddle" and dispelling the illusion, the group ventured north
 
 As boulders were flung by ogre bodyguards and Groorg, the party engaged and Groorg and his minions were defeated.
 
-> The party proceeded to the middle of the cavern to camp and you all were able to determine that it is about 180 feet long and almost half as wide. The floor has been worked to make it more level &emdash as if traffic through this area was once common. What you took to be a large stalagmite here is actually another of the fmailiar figures of black stone, this one glazed with mineral deposits from the dripping ceiling of the cavern.
+> The party proceeded to the middle of the cavern to camp and you all were able to determine that it is about 180 feet long and almost half as wide. The floor has been worked to make it more level — as if traffic through this area was once common. What you took to be a large stalagmite here is actually another of the fmailiar figures of black stone, this one glazed with mineral deposits from the dripping ceiling of the cavern.
 
 The group, after a long battle, settled in and long rested. WIll the group carry on and explore the rest of the level they currently reside in? Will the group finally solve the mystery of the temple?
 
