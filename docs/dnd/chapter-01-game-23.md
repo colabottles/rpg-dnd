@@ -12,6 +12,8 @@ The group of adventurers stood at the central pillar where they have stepped out
 
 After solving the "riddle" and dispelling the illusion, the group ventured north into the long corridor and ran across two caryatid columns on their way to meet unexpectedly, the boss, Groorg. Groorg is a Mountain Giant, or should I say _was_ a Mountain Giant.
 
+> The party proceeded to the middle of the cavernb to camp and you all were able to determine that it is about 180 feet long and almost half as wide. The floor has been worked to make it more level &emdash as if traffic through this area was once common. What you took to be a large stalagmite here is actually another of the fmailiar figures of black stone, this one glazed with mineral deposits from the driipping ceiling of the cavern.
+
 The group, after a long battle, settled in and long rested. WIll the group carry on and explore the rest of the level they currently reside in? Will the group finally solve the mystery of the temple?
 
 Who knows what more the Forgotten Temple of Tharizdun holds for these mighty adventurers!
