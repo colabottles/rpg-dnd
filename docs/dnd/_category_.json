@@ -1,7 +1,7 @@
 [
   {
     "label": "Chapter One Notes",
-    "position": 2,
+    "sidebar-position": 2,
     "link": {
       "type": "generated-index",
       "description": "Rough Notes from our game sessions for Rise of the Stormbringer."
@@ -9,7 +9,7 @@
   },
   {
     "label": "Chapter Two Notes",
-    "position": 3,
+    "sidebar-position": 3,
     "link": {
       "type": "generated-index",
       "description": "Rough Notes from our game sessions for Chapter 2."
