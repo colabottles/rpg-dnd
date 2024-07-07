@@ -29,3 +29,6 @@ yarn.lock
 ./vscode
 *.code-workspace
 settings.json
+
+# Mac OS
+.DS_Store
