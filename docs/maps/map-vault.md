@@ -22,11 +22,16 @@ sidebar_position: 2
 
 #### Kershane Monastry and Gnome Vale area
 
-![An overland map of the area between Kershane Monstry and Gnome Vale](https://res.cloudinary.com/colabottles/image/upload/v1676249980/images/temple_of_tharizdun.png)
+![An overland map of the area between Kershane Monastry and Gnome Vale](https://res.cloudinary.com/colabottles/image/upload/v1676249980/images/temple_of_tharizdun.png)
 
 #### Kershane Monastry
 
 ![The entrance to Kershane Monastry outside showing the stone steps leading up to the great doors nestled into the mountain range](https://res.cloudinary.com/colabottles/image/upload/v1680463014/images/kershane.png)
 
 #### The Entrance to Gnome Vale
+
 ![The area looking down to the valley below where the area known as Gnome Vale is in the Yatil Mountains](https://res.cloudinary.com/colabottles/image/upload/v1676251566/images/gnome_vale.jpg)
+
+#### D&D Beyond Map link
+
+![The map to the VTT maps for the campaign](https://www.dndbeyond.com/games/2851500)

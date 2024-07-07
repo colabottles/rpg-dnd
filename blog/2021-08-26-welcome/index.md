@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [izzi]
+authors: [todd]
 tags: [dnd, hello, docusaurus]
 ---
 

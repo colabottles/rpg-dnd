@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Izzi Koning
+  name: Todd Libby
   title: Docusaurus Core Team
-  url: https://github.com/izzi-ink
-  image_url: https://github.com/izzi-ink.png
+  url: https://github.com/colabottles
+  image_url: https://github.com/colabottles.png
 tags: [hola, docusaurus]
 ---
 
