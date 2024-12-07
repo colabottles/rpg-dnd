@@ -14,5 +14,6 @@ authors:
 tags: [hola, docusaurus]
 
 ---
+<!-- truncate -->
 
 I have been a player and DM/GM of TTRPGs for over 40 years.
