@@ -30,7 +30,7 @@ Mordenkainen then sat back and finished the tale.
 
 > It was said that the ring had other powers that could only be accessed by an evil being who did not fall under control of the ring. It was rumored that the ring could be used to summon white dragons, or the primordial Cryonax, and freeze entire worlds. It was said that the ring could only be destroyed if worn by the Summer Queen.
 >
-> It is rumored to be in the Flaeness and I want to make certain it is, or it is not. Either way, the ring must be destroyed. It can no longer exist here on Oerth, or in Faerûn. Simply put, I am counting on you adventurers because I simply have more pressign details to attend to now that you have told me about the letters you have found. I believe the Red Wizards of Thay are now involved. Who knows what they are up to, and I must find out.
+> It is rumored to be in the Flaeness and I want to make certain it is, or it is not. Either way, the ring must be destroyed. It can no longer exist here on Oerth, or in Faerûn. Simply put, I am counting on you adventurers because I simply have more pressing details to attend to now that you have told me about the letters you have found. I believe the Red Wizards of Thay are now involved. Who knows what they are up to, and I must find out.
 
 With that, you all retire to your rooms, resting until daybreak to depart on Mordenkainen's fantastic adventure he has assembled you for.
 
