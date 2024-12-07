@@ -5,6 +5,6 @@ todd:
   image_url: https://github.com/colabottles.png
   email: toddlibby@protonmail.com
   socials:
-    bluesky: toddl.dev
-    mastodon: colabottles@notacult.social
-    github: colabottles
+    bluesky: https://bsky.app/profile/toddl.dev
+    mastodon: https://notacult.social/@colabottles
+    github: https://github.com/colabottles

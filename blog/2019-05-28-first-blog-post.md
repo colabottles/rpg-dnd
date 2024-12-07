@@ -3,10 +3,16 @@ slug: first-blog-post
 title: First Blog Post
 authors:
   name: Todd Libby
-  title: Docusaurus Core Team
-  url: https://github.com/colabottles
+  title: Crits and Giggles DM
+  url: https://toddl.dev
   image_url: https://github.com/colabottles.png
+  email: toddlibby@protonmail.com
+  socials:
+    bluesky: https://bsky.app/profile/toddl.dev
+    mastodon: https://notacult.social/@colabottles
+    github: https://github.com/colabottles
 tags: [hola, docusaurus]
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+I have been a player and DM/GM of TTRPGs for over 40 years.
