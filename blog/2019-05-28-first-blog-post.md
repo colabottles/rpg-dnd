@@ -1,16 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors:
-  name: Todd Libby
-  title: Dungeon Master and wiki maintainer
-  url: https://toddl.dev
-  image_url: https://github.com/colabottles.png
-  email: toddlibby@protonmail.com
-  socials:
-    bluesky: https://bsky.app/profile/toddl.dev
-    mastodon: https://notacult.social/@colabottles
-    github: https://github.com/colabottles
+authors: todd
 tags: [hola, docusaurus]
 
 ---
