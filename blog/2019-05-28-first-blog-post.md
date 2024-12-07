@@ -3,7 +3,7 @@ slug: first-blog-post
 title: First Blog Post
 authors:
   name: Todd Libby
-  title: Crits and Giggles DM
+  title: Dungeon Master and wiki maintainer
   url: https://toddl.dev
   image_url: https://github.com/colabottles.png
   email: toddlibby@protonmail.com
