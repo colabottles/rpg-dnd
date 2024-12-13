@@ -3,7 +3,9 @@ sidebar_position: 2
 ---
 # Flint Stoneheart
 
-Player: Erick
+![Flint Stoneheart, a dwarven ranger](https://www.dndbeyond.com/avatars/17/468/636377891490355427.jpeg)
+
+## Player: Erick
 
 ## Backstory
 
