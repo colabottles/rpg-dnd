@@ -1,11 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Eritrea - Retired
+# Eritrea
 
-## Status: Retired
-
-<p><img alt="Eritrea, human female from Baldur's Gate." src="https://res.cloudinary.com/colabottles/image/upload/v1692652743/eritrea.jpg"/></p>
+![Eritrea, human female from Baldur's Gate](https://res.cloudinary.com/colabottles/image/upload/v1692652743/eritrea.jpg)
 
 **Player:** Hailey F.
 
