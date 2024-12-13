@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Vidya Wá
 
-<p><img alt="" src=""/></p>
+![Vidya Wa, a Half-Elf nonbinary Rogue](https://www.dndbeyond.com/avatars/39083/724/1581111423-115987447.jpeg)
 
 **Player:**
 
