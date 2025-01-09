@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Chapter 2: Game 5
+# Chapter 2: Game 6
 
 ## Don&apos;t Go Into the Dark Caves&excl;
 
