@@ -5,7 +5,7 @@ authors: todd
 tags: [hello, help-wanted, players, new-players, lfg, open-seat]
 ---
 
-Are you looking for a virtual table top group to join and have fun with? Read more to find out what we are looking for and to see if it is a good fit for you!
+Are you looking for a virtual table top group to join and have fun with? Read more to find out what we are looking for and to see if it is a good fit for you&excl;
 
 Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
 
@@ -23,7 +23,7 @@ Third, should the video chat go well, then I will have you fill out a copy of ou
 
 From there, if everything still looks good and feels good for both parties, then we will get you into the game somehow and get playing!
 
-To start the process, you can contact me, Todd, at &#64;toddl.dev on Bluesky and colabottles&#64;notacult.social on Mastodon
+To start the process, you can contact me, Todd, at [&#64;toddl.dev](https://bsky.app/profile/toddl.dev) on Bluesky and [colabottles&#64;notacult.social](https://notacult.social/@colabottles) on Mastodon
 
 Well met and thanks for reading!
 
