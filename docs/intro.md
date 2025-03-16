@@ -10,13 +10,13 @@ Many different stories have circulated about who the adventurers were and what i
 
 Within the last three hundred years, many have tried to follow up on the stories and the legends and myths that swirl around in taverns and inns, no one that has left has come back alive or never been seen again. Thousands have died and bodies have been found and the names of those that have made the search for the keep have died trying to find the keep, known only as Thunderclap Keep.
 
-## Useful Links
+## Looking for a Group&quest;
 
-### DnD Beyond
+The Crits &amp; Giggles group is looking for a player that can commit to a bi-weekly schedule (subject to change) of games on Saturdays at 10 am Mountain Time (UTC -7) / 1 pm Eastern Time (UTC -4, UTC -5 during Eastern Standard Time) for a couple hours a weekend, every other Saturday.
 
-We use DnD Beyond to manage our characters and the campaign.
+It is a casual-style game played on Discord and through the Crits &amp; Giggles Discord server.
 
-- [Join on DnD Beyond](https://ddb.ac/campaigns/join/28515003339668192/).
+We use DnD Beyond to manage our characters and the campaign. We will however, be switching to Foundry VTT in the coming months as soon as the DM has time to learn and get everything moved over to Foundry.
 
 ### Deploy Status
 
