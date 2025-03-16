@@ -18,7 +18,7 @@ It is a casual-style game played on Discord and through the Crits &amp; Giggles 
 
 We use DnD Beyond to manage our characters and the campaign. We will however, be switching to Foundry VTT in the coming months as soon as the DM has time to learn and get everything moved over to Foundry.
 
-For more information, please go [here and read through what we are looking for](https://crits-n-giggles.netlify.app/blog).
+For more information, please go [here and read through what we are looking for](https://crits-n-giggles.netlify.app/blog/help-wanted/).
 
 ### Deploy Status
 
