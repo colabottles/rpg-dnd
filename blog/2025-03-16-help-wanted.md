@@ -7,8 +7,6 @@ tags: [hello, help-wanted, players, new-players, lfg, open-seat]
 
 Are you looking for a virtual table top group to join and have fun with? Read more to find out what we are looking for and to see if it is a good fit for you&excl;
 
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
-
 <!--truncate-->
 
 Hi.
