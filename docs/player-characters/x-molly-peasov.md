@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Molly Peasov
+# Molly Peasov - Retired
 
-Player: Alex R.
+## Player: Alex R. - Retired
 
 ## Backstory
 
